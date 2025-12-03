@@ -5,8 +5,6 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5535998226578?text=Ol%C3%A1%2C%20Sou%20Bruno%20Aguiar.%20%F0%9F%99%8C) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-aguiar-b5a2a419a/)
 
-![Broninho GitHub stats](https://github-readme-stats.vercel.app/api?username=Broninho&show_icons=true&theme=dracula)
-
 
 ### Tecnologias que eu uso no meu dia 💻
 
